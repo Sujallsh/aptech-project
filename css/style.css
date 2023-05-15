@@ -1,0 +1,49 @@
+*{
+    padding: 0 !important;
+    margin: 0 !important;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    /* background-color: gray; */
+    padding: 0.875rem;
+}
+
+.hero{
+    background-color: #eee;
+}
+
+.btn-book{
+    padding: 0.25em 1.5em !important;
+    border-radius: 1em !important; 
+    
+} 
+
+.about-us-text{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.text-about-us{
+    font-family: serif;
+    color: red;
+}
+
+.learn-more-text{
+    font-family: serif;
+
+}
+
+.about-left{
+    background-image: url("/images/resturant.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+
+.overlay{
+    color: rgba(255, 255, 255, 0.253);
+    height: 100%;
+    display: flex;
+    align-items: flex-end;
+}
